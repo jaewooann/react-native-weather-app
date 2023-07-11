@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://cb-i4d.jaewooahn.nomadweather.exp.direct",
+  "packagerNgrokUrl": "https://cb-i4d.jaewooahn.nomadweather.exp.direct",
+  "ngrokPid": 19472,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
